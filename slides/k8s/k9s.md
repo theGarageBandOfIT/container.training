@@ -32,7 +32,7 @@
 
 ---
 
-## What kind to we want to see?
+## What kind do we want to see?
 
 - Press `:` to change the type of resource to view
 
